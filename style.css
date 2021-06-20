@@ -23,9 +23,6 @@ body {
 /* Style the top navigation bar */
 .navbar {
   background-color: #333;
-}
-
-.navbar-custom {
   width: 100px;
 }
 
