@@ -26,6 +26,10 @@ body {
   background-color: #333;
 }
 
+.navbar-custom {
+  width: 400px;
+}
+
 /* Style the navigation bar links */
 .navbar a {
   float: left;
