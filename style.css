@@ -22,12 +22,11 @@ body {
 
 /* Style the top navigation bar */
 .navbar {
-  overflow: hidden;
   background-color: #333;
 }
 
 .navbar-custom {
-  width: 400px;
+  width: 100px;
 }
 
 /* Style the navigation bar links */
