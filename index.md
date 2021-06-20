@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/style.css">
+
 ## Welcome to The Spectrum Project
 
 The spectrum project is an independent organization seeking to combat misinformation and anti-intellectualism, while promoting media literacy.
