@@ -100,3 +100,8 @@ body {
     width:100%;
   }
 }
+
+li a {
+  display: block;
+  width: 60px;
+}
